@@ -17,4 +17,6 @@ dict_df(url) - Takes a list of URLs, uses the profile_scrap2 to get its dictiona
 
 You need a list of linkedin profile URL's to get the information.
 
-Finally, you can convert that into a csv file and download it to your desktop
+You can convert that into a csv file and download it to your desktop
+
+Finally, I refer to it as libot. Hence the name at the end of the repo.
