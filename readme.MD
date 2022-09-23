@@ -6,7 +6,7 @@ I will try to keep this updated (No promises though).
 It accepts a list of URL's and gives output in a dataframe which you can download as a csv
 
 Requirements - 
-You need beautifulsoup, requests and selenium pre installed.
+You need beautifulsoup, requests,pandas and selenium pre installed.
 
 You also need to download chrome webdriver similar to the version of the chrome browser you have(you can use other webdrivers also but you'll need to tweak the code accordingly). Type about:: in your browser to get the version number and download accordingly.
 Store this file in a folder called "Driver" inside the folder you have the main code in.
